@@ -1,5 +1,6 @@
 package com.example.shop.entity;
 
+import com.example.shop.entity.item.Item;
 import lombok.Getter;
 import lombok.Setter;
 

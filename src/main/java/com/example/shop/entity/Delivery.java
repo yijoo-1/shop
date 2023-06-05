@@ -22,7 +22,7 @@ public class Delivery {
     private String street;
     private String zipcode;
     @Enumerated(EnumType.STRING)
-    private String status;
+    private DeliveryStatus status;
 
 
 }
